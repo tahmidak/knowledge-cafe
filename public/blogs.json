@@ -1,0 +1,52 @@
+[
+  {
+    "id": "post-001",
+    "cover": "https://picsum.photos/seed/cover1/1200/630",
+    "title": "Building a Knowledge Café in React",
+    "author": "Ariana Noor",
+    "author_img": "https://picsum.photos/seed/author1/256/256",
+    "posted_date": "2025-08-14",
+    "reading_time": 6,
+    "hashtags": ["#React", "#Tailwind", "#SPA"]
+  },
+  {
+    "id": "post-002",
+    "cover": "https://picsum.photos/seed/cover2/1200/630",
+    "title": "Laravel Tips for Clean Controllers",
+    "author": "Shafin Rahman",
+    "author_img": "https://picsum.photos/seed/author2/256/256",
+    "posted_date": "2025-08-12",
+    "reading_time": 5,
+    "hashtags": ["#Laravel", "#PHP", "#CleanCode"]
+  },
+  {
+    "id": "post-003",
+    "cover": "https://picsum.photos/seed/cover3/1200/630",
+    "title": "Tailwind CSS v4: What Actually Changed",
+    "author": "Maliha Akter",
+    "author_img": "https://picsum.photos/seed/author3/256/256",
+    "posted_date": "2025-08-10",
+    "reading_time": 7,
+    "hashtags": ["#Tailwind", "#CSS", "#Frontend"]
+  },
+  {
+    "id": "post-004",
+    "cover": "https://picsum.photos/seed/cover4/1200/630",
+    "title": "Understanding Git Rebase vs Merge",
+    "author": "Rizwan Karim",
+    "author_img": "https://picsum.photos/seed/author4/256/256",
+    "posted_date": "2025-08-08",
+    "reading_time": 8,
+    "hashtags": ["#Git", "#VersionControl", "#OpenSource"]
+  },
+  {
+    "id": "post-005",
+    "cover": "https://picsum.photos/seed/cover5/1200/630",
+    "title": "Deploying WordPress for Free: Pros & Cons",
+    "author": "Nadia Chowdhury",
+    "author_img": "https://picsum.photos/seed/author5/256/256",
+    "posted_date": "2025-08-05",
+    "reading_time": 4,
+    "hashtags": ["#WordPress", "#Hosting", "#DevOps"]
+  }
+]

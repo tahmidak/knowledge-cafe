@@ -1,10 +1,18 @@
-const header = () => {
-    return (
-        <div>
-            <div className='text-4xl font-bold'>Knowledge Cafe</div>
+import profile_img from "../../assets/images/profile.png";
+
+const Header = () => {
+  return (
+    <>
+      <div className="header flex items-center justify-between p-2.5 mx-2 border-b-2 border-b-gray-600 w-lvw max-w-[100rem]">
+        <div className="h_right flex items-start">
+          <div className="text-4xl font-bold">Knowledge Cafe</div>
         </div>
-    );
+        <div className="l_left flex items-end">
+          <img className="h-10 w-10" src={profile_img} alt="profile_img" />
+        </div>
+      </div>
+    </>
+  );
 };
 
-export default header;
-
+export default Header;
