@@ -3,7 +3,7 @@ import profile_img from "../../assets/images/profile.png";
 const Header = () => {
   return (
     <>
-      <div className="header flex items-center justify-between p-2.5 mx-2 border-b-2 border-b-gray-600 w-lvw max-w-[90rem]">
+  <div className="header flex items-center justify-between p-2.5 border-b-2 border-b-gray-600 w-full max-w-screen-xl">
         <div className="h_right flex items-start">
           <div className="text-4xl font-bold">Knowledge Cafe</div>
         </div>
