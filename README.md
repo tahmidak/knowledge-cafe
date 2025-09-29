@@ -4,6 +4,7 @@
 
 Knowledge Cafe is a sophisticated React application that serves as a modern blog reading platform. Built with React 19 and Tailwind CSS, it offers a seamless reading experience with advanced features for content discovery and management.
 
+---
 ## Features
 
 ### Core Functionality
@@ -13,6 +14,7 @@ Knowledge Cafe is a sophisticated React application that serves as a modern blog
 - Responsive design optimized for all devices
 - Rich content display with author profiles and hashtags
 
+
 ### Technical Features
 - Modern React hooks and state management
 - Component-based architecture for maintainability
@@ -20,12 +22,14 @@ Knowledge Cafe is a sophisticated React application that serves as a modern blog
 - PropTypes validation for type safety
 - Tailwind CSS for responsive styling
 
+---
 ## Development Setup
 
 ### Prerequisites
 - Node.js (v16 or higher)
 - npm or yarn package manager
 
+---
 ### Installation
 
 1. Clone the repository:
@@ -63,6 +67,7 @@ The application will be available at [http://localhost:5173](http://localhost:51
 | `npm run lint` | Run ESLint |
 | `npm run preview` | Preview production build |
 
+---
 ## Technical Stack
 
 - React 19 for modern UI development
@@ -71,6 +76,7 @@ The application will be available at [http://localhost:5173](http://localhost:51
 - PropTypes for runtime type checking
 - React Icons for consistent iconography
 
+---
 ## Project Architecture
 
 ### Component Structure
@@ -93,6 +99,7 @@ src/
 └── App.jsx                 # Main application component
 ```
 
+---
 ### Key Features Implementation
 - Dynamic blog loading with error handling
 - Real-time bookmark management
@@ -100,13 +107,15 @@ src/
 - Responsive layout with Tailwind CSS
 - Optimized image loading and caching
 
+---
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
+---
 ## License
 
 This project is licensed under the MIT License.
 
 ---
-**Author:** [Tahmid Ahmed Khan](https://github.com/TahmidAhmedKhan)
+**Author:** [Tahmid Ahmed Khan](https://github.com/tahmidak)
